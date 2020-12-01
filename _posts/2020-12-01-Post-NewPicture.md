@@ -11,4 +11,7 @@ Iran University of Science and Technology
 
 ![alt text](../assets/images/daneshgah.jpg "IUST College")
 
+
+![alt text](../assets/images/daneshkade.jpg "CE")
+
 ---
