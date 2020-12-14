@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,10 +112,10 @@ author:
   bio              : I'm a student of CE , iust.
   location         : "تهران"
   email            : haniyehasadi627@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: Haniyeh As'adi
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: haniyehasadi
   instagram: hni.asadi
   links:
     - label: "Email"
